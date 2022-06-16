@@ -1,7 +1,7 @@
 {
   "name": "com.lucasboe.util.coroutine",
   "displayName": "LucasBoe CoroutineUtil",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2020.3",
   "description": "a collection of methods for writing coroutines faster.",
   "keywords": [
@@ -15,5 +15,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com/lucasboe/coroutine-util.git"
   },
+  "hideInEditor": false,
   "author": "LucasBoe (https://l-boe.de)"
 }
