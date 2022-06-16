@@ -1,7 +1,7 @@
 {
   "name": "com.lucasboe.util.coroutine",
   "displayName": "LucasBoe CoroutineUtil",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2020.3",
   "description": "a collection of methods for writing coroutines faster.",
   "keywords": [
